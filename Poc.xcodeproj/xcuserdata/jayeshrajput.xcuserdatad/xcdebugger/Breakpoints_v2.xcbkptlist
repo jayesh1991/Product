@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "38AF1F7D-1181-4AE9-BE3A-4E213FAD46E7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52549813-B9B4-49C3-AC99-420A30E8B42D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Poc/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99668B8E-7EDB-4A94-B4F9-9BD66F042315"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Poc/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2249901D-A0A0-45BF-9C99-7FEDA4994CE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Poc/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "fetchProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2249901D-A0A0-45BF-9C99-7FEDA4994CE6 - 7ff6560d92ecde73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Poc.Product&gt;) -&gt; () in Poc.ProductListViewModel.fetchProducts() -&gt; ()"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "2249901D-A0A0-45BF-9C99-7FEDA4994CE6 - 7ff6560d92ecde73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Poc.Product&gt;) -&gt; () in Poc.ProductListViewModel.fetchProducts() -&gt; ()"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA96CB83-B5A5-4B08-9EDA-299269BA94BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Poc/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "fetchProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA96CB83-B5A5-4B08-9EDA-299269BA94BE - 117be7ef99a9a3ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Poc.ProductListViewModel.fetchProducts() -&gt; ()"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "BA96CB83-B5A5-4B08-9EDA-299269BA94BE - 117be7ef99a9a3ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Poc.ProductListViewModel.fetchProducts() -&gt; ()"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11CCF5EA-9FFD-410F-840A-97A8D1CF9454"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Poc/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "fetchProducts(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11CCF5EA-9FFD-410F-840A-97A8D1CF9454 - f6fba9fadbc89a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Poc.APIService.fetchProducts(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Poc.Product&gt;, Swift.Error&gt;"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "11CCF5EA-9FFD-410F-840A-97A8D1CF9454 - f6fba9fadbc89a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Poc.APIService.fetchProducts(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Poc.Product&gt;, Swift.Error&gt;"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E28A2537-9F42-48A0-94C0-DB32057F2160"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Poc/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "fetchProducts(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E28A2537-9F42-48A0-94C0-DB32057F2160 - f6fba9fadbc89a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Poc.APIService.fetchProducts(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Poc.Product&gt;, Swift.Error&gt;"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "E28A2537-9F42-48A0-94C0-DB32057F2160 - f6fba9fadbc89a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Poc.APIService.fetchProducts(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Poc.Product&gt;, Swift.Error&gt;"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "E28A2537-9F42-48A0-94C0-DB32057F2160 - 376c9add519b30ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) -&gt; Foundation.Data in Poc.APIService.fetchProducts(page: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Poc.Product&gt;, Swift.Error&gt;"
+                  moduleName = "Poc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayeshrajput/Documents/interview/Poc/Poc/Poc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A615A6DC-0153-45C8-835E-F7B9F74F1DDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Poc/Components/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "request(endpoint:method:body:responseType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

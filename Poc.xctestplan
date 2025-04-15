@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "79EA8334-918D-45C2-8547-E1DDFA88B19F",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Poc.xcodeproj",
+      "identifier" : "312FBB7A2DA911D90044F535",
+      "name" : "Poc"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Poc.xcodeproj",
+        "identifier" : "316B6CC12DACF3C900449CE1",
+        "name" : "PocTests"
+      }
+    }
+  ],
+  "version" : 1
+}
